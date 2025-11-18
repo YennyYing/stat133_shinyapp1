@@ -34,7 +34,7 @@ This project showcases my ability to combine data cleaning, geospatial mapping, 
 ---
 
 ## Packages
-```r
+```markdown
 The app uses the following R packages (install via `install.packages()` if needed):
 library(shiny)
 library(tidyverse)
@@ -42,7 +42,11 @@ library(maps)
 library(leaflet)
 library(plotly)
 library(sf)
+```
+## Lessons Learned:
+Throughout the development of this project, I gained valuable experience in building interactive data applications and working with geospatial data in R. One key lesson was understanding how to efficiently handle large datasets and optimize Shiny reactivity to keep the app responsive. I also learned the importance of preprocessing data and transforming spatial objects correctly to avoid rendering issues in mapping libraries like `leaflet`.
 
----
+This project strengthened my skills in integrating multiple R packages, structuring a Shiny app for clarity, and designing user-friendly visualizations. Most importantly, it taught me how to break down a complex dataset into accessible, meaningful insights through interactive visual exploration.
+
 
 
