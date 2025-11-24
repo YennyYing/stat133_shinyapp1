@@ -5,7 +5,8 @@ An interactive Shiny app that visualizes California traffic crash data (2021–2
 
 **Link to project:** https://yuanying.shinyapps.io/app3/
 
-![alt tag](http://placecorgi.com/1200/650)
+<img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer.png" width="50%"><img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer2.png" width="50%">
+<img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer3.png" width="50%"><img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer4.png" width="50%">
 
 ## Author
 Yuan Ying  
