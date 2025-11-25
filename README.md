@@ -3,7 +3,7 @@
 ## Description
 An interactive Shiny app that visualizes California traffic crash data (2021–2023) through crash maps, county-level choropleths, and exploratory trend graphics. Users can explore crashes by location, violation type, severity, and more.  
 
-**Link to project:** https://yuanying.shinyapps.io/app3/
+**Live App:** https://yuanying.shinyapps.io/app3/
 
 <img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer.png" width="50%"><img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer2.png" width="50%">
 <img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer3.png" width="50%"><img src="https://github.com/YennyYing/stat133_shinyapp1/blob/main/california%20crash%20explorer4.png" width="50%">
