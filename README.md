@@ -27,10 +27,11 @@ The crash data (2021–2023) was cleaned and preprocessed in R to allow filterin
 This project showcases my ability to combine data cleaning, geospatial mapping, and interactive visualization to make complex datasets accessible and insightful.
 
 ## Features
-- Interactive map showing crash locations in California
-- County-level choropleth maps of crash counts
-- Trend analysis and exploratory plots by year, county, type of collision, and violation category
-- User-friendly filtering options
+- **Map 1**: An interactive Leaflet map of crash locations, filterable by year, location, violation category, and a choice of coloring by collision type or severity.
+- **Map 2**: A county-level choropleth map showing crash counts by county for a selected year.
+- **More**: Exploratory graphics created with `ggplot2` and `plotly`, including crashes by day of week and distributions by collision type, violation category, and severity.
+
+
 
 ---
 
